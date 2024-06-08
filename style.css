@@ -169,7 +169,7 @@ h4{
 }
 
 
-@media (max-width:600px) {
+@media (max-width:750px) {
     .card{
         width:90vw;
         height:70vh;
